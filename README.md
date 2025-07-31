@@ -80,3 +80,8 @@ http://localhost:8080
 | Applications | [http://localhost:8080/applications](http://localhost:8080/applications) |
 
 📸 Screenshots:
+![image alt](https://github.com/tanu-pande/Job-Portal/blob/6694cd5f37310808a6c15199372e61bd653f963d/Screenshot%202025-08-01%20010059.png)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
