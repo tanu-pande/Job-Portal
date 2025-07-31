@@ -84,4 +84,4 @@ http://localhost:8080
 ![image alt](https://github.com/tanu-pande/Job-Portal/blob/89382ed56216595f93299c80c2cca86bc935f7ba/Screenshot%202025-08-01%20010128.png)
 ![image alt](https://github.com/tanu-pande/Job-Portal/blob/ecb54172b4e049679171464e9ad1b29cf64ceb41/Screenshot%202025-08-01%20010141.png)
 ![image alt](https://github.com/tanu-pande/Job-Portal/blob/8d4bc87a51598522d43993a31486495bfa6594a3/Screenshot%202025-08-01%20010156.png)
-![image alt]()
+![image alt](https://github.com/tanu-pande/Job-Portal/blob/5b0e73b7d84e3e919249bcbf18e5004ee435cef2/Screenshot%202025-08-01%20010211.png)
